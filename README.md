@@ -11,7 +11,6 @@ A script designed for Jamf Pro deployment to streamline the installation of Home
 - Generates logs for easy troubleshooting.
 
 ## Prerequisites
-- macOS with administrator privileges.
 - Jamf Pro environment for deployment.
 - Network connectivity to download Homebrew and Xcode tools.
 
